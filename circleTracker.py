@@ -34,7 +34,7 @@ def circleDetector(image):
 
 
 # OpenCV video capture object
-VideoCap = cv2.VideoCapture('C:/Users/mshen/OneDrive - University of Florida/Documents/School/EEL 4930 (Robots)/HH5/HW5_Blank/HW5_Blank/data/rBall.avi')
+VideoCap = cv2.VideoCapture('C:/Users/mshen/OneDrive - University of Florida/Documents/School/EEL 4930 (Robots)/HH5/HW5_Blank/data/rBall.avi')
 
 """
 # Create Kalman Filter object KF
